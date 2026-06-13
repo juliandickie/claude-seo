@@ -2,7 +2,7 @@
 
 This is a fork of AgriciDaniel/claude-seo (MIT). The upstream LICENSE and any NOTICE file are unchanged. This file records every deviation from upstream so a merge can never silently lose it.
 
-Pinned upstream commit - dabfc1a
+Pinned upstream commit - 47df91e
 
 ## Deviations
 
